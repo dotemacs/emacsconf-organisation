@@ -1,0 +1,3 @@
+* EmacsConf Organisation
+
+  A repo to help out with organising the conf
