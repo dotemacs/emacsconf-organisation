@@ -19,7 +19,6 @@
 *** Ryan White
 *** Joakim Verona (isn't sure about his availability, waiting for confirmation)
 *** Alex Ott
-*** Xue Fuqiao
 
 
 ** Maybe duplicate
@@ -55,6 +54,11 @@
     Emacs Live http://emacsconf.org/proposals/45
     Maybe also: Meta-eX - music with Emacs Live and Overtone
 
+
+
+** Unavailable for March
+*** Xue Fuqiao
+    Can't make March, but can February, July and August.
 
 
 ** Interactive sessions
