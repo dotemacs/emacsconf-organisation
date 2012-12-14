@@ -1,0 +1,101 @@
+* Speakers and availabilty
+
+** Waiting on reply
+*** Sean O'Halpin
+*** Leonidas Tsampros
+*** Steve Mynott
+*** Thomas Koch
+*** Ben Hsu
+*** Ryan Davis
+*** David Röthlisberger
+*** Rahmu
+*** Dave Snowdon
+*** Kristian Hellquist
+*** Johan Andersson
+*** Jim Crossley
+*** Duncan MacGregor
+*** Paul Butcher
+*** Charles Turner
+*** Ryan White
+*** Joakim Verona (isn't sure about his availability, waiting for confirmation)
+*** Alex Ott
+*** Xue Fuqiao
+
+
+** Maybe duplicate
+*** Dave Snowdon Org mode http://emacsconf.org/proposals/4
+
+
+** Good for March
+*** Nic Ferrier
+    el-node
+
+*** Sacha Chua
+    Keynote?
+
+*** Dimitri Fontaine
+    - el-get
+    - Emacs Lisp Primer
+
+*** Bastien
+    Org mode, or something nobody else is covering
+
+*** Jim Myhrberg
+    Can cover Git usage via Emacs, but would give up his place for
+    somebody more seasoned user who's more versed about the topic
+
+** Some dates in March unavailable for
+*** Ivan Kanis - can make it March 2nd
+    Org mode with Getting Things Done
+
+*** Magnar Sveen - unavailable for 7-9
+    Emacs Rocks talk
+
+*** Sam Aaron - available only for 29th to 31st
+    Emacs Live http://emacsconf.org/proposals/45
+    Maybe also: Meta-eX - music with Emacs Live and Overtone
+
+
+
+** Interactive sessions
+
+   How to deal with the interactive sessions like these?
+
+   http://emacsconf.org/proposals/41
+   http://emacsconf.org/proposals/43
+   http://emacsconf.org/proposals/44
+   http://emacsconf.org/proposals/46
+   http://emacsconf.org/proposals/47
+
+
+** Nobody is covering
+
+   * "Beyond Emacs 24: the development roadmap"
+   http://emacsconf.org/proposals/24
+
+   * History of Emacs told by Mr. Stallman
+   http://emacsconf.org/proposals/50
+
+
+** How to deal with
+
+   Set up/use Emacs for $LANGUAGE ?
+   http://emacsconf.org/proposals/15
+   http://emacsconf.org/proposals/20
+   http://emacsconf.org/proposals/30
+   http://emacsconf.org/proposals/33
+   http://emacsconf.org/proposals/34
+
+   As in, what format should it be? What if some attendees arent
+   interested in the config for a $LANGUAGE? How do you balance this
+   out?
+
+** Book raffle
+
+   http://emacsconf.org/proposals/34
+
+   suggested by mhuber of Linux Magazine, Germany
+
+   One issue I see with this, is when the publishers send over titles,
+   the customs hold them up sometimes even thought they are marked as
+   'gifts'.
