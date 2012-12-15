@@ -17,7 +17,16 @@
 *** Joakim Verona (isn't sure about his availability, waiting for confirmation)
 *** Alex Ott
 
-** Persons I contacted
+** e-mail that bounced (just for info)
+   
+   Graeme E Moss gem@cs.york.ac.uk (haskell)
+   Tommy Thorn thorn@irisa.fr (haskell)
+   Keisuke Nishida kei@psn.net (lookup)
+   Stephen Eglen stephen@cns.ed.ac.uk
+   Tobias C. Rittweiler stephen@cns.ed.ac.uk (slime) 
+   Lennart Borgman editor@OurComments.Org (nxhtml)
+   
+** Persons that Ivan contacted
    Alan Mackenzie (cc)
    Alex Schroeder (emacs wiki)
    Benjamin Drieu
@@ -33,18 +42,15 @@
    Drew Adams (icicles)
    Eric Hanchrow (offby1 on #emacs)
    Eric Marsden (slime)
-   Graeme E Moss (haskell-mode)
    Jamie Zawinsky
    Jay Belanger (calc maintainer)
    John Sullivan (plannner maintainer)
    John Wiegly
    Jorgen Schaefer (http://www.jorgenschaefer.de/)
    Julien Danjou (google-maps)
-   Keisuke Nishida (lookup)
    Kevin Storm (ido, cua)
    Kyle Jones (vm)
    Lars Magne Ingebrigtsen (gnus)
-   Lennart Borgman (nxhtml)
    Luis Fernandes (http://www.ee.ryerson.ca/~elf/emacs/)
    Luke Gorrie (slime)
    Masatoshi Tsuchiya (w3m)
@@ -55,13 +61,11 @@
    Phil Jackson (magit)
    Roland Winkler (bbdb v3)
    Rubykitch (anything, http://www.rubyist.net/~rubikitch/index.en.html)
-   Stephen Eglen
    T V Raman (emacspeak)
    Steve Yegge
    Tassilo Horn
    Tobias C. Rittweiler (slime)
    Tom Tromey (ELPA)
-   Tommy Thorn (haskell-mode)
    Tomohiko Morioka
    Tomohiro Matsuyama (auto-complete)
    Vivek Dasmohapatra (elim)
