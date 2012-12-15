@@ -2,12 +2,9 @@
 
 ** Waiting on reply
 *** Sean O'Halpin
-*** Leonidas Tsampros
 *** Steve Mynott
 *** Thomas Koch
-*** Ben Hsu
 *** Ryan Davis
-*** David Röthlisberger
 *** Rahmu
 *** Dave Snowdon
 *** Kristian Hellquist
@@ -42,6 +39,10 @@
 *** Jim Myhrberg
     Can cover Git usage via Emacs, but would give up his place for
     somebody more seasoned user who's more versed about the topic
+
+*** David Röthlisberger
+    author of http://david.rothlis.net/emacs/howtolearn.html
+    can give a basic intro to Emacs
 
 ** Some dates in March unavailable for
 *** Ivan Kanis - can make it March 2nd
