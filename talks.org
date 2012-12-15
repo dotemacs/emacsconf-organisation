@@ -17,10 +17,58 @@
 *** Joakim Verona (isn't sure about his availability, waiting for confirmation)
 *** Alex Ott
 
-
+** Persons I contacted
+   Alan Mackenzie (cc)
+   Alex Schroeder (emacs wiki)
+   Benjamin Drieu
+   Carl Worth (notmuch)
+   Carsten Dominik (org)
+   Damien Elmes (anki)
+   Dave Gillespie (calc)
+   Dave Love (haskell-mode)
+   Dave Pearson
+   David 'O Tool
+   David Kastrup (auctex)
+   Donald Knuth (check he still uses emacs)
+   Drew Adams (icicles)
+   Eric Hanchrow (offby1 on #emacs)
+   Eric Marsden (slime)
+   Graeme E Moss (haskell-mode)
+   Jamie Zawinsky
+   Jay Belanger (calc maintainer)
+   John Sullivan (plannner maintainer)
+   John Wiegly
+   Jorgen Schaefer (http://www.jorgenschaefer.de/)
+   Julien Danjou (google-maps)
+   Keisuke Nishida (lookup)
+   Kevin Storm (ido, cua)
+   Kyle Jones (vm)
+   Lars Magne Ingebrigtsen (gnus)
+   Lennart Borgman (nxhtml)
+   Luis Fernandes (http://www.ee.ryerson.ca/~elf/emacs/)
+   Luke Gorrie (slime)
+   Masatoshi Tsuchiya (w3m)
+   Matsushita (meadow, http://www.bookshelf.jp)
+   Michael Olson (muse)
+   Miles Bader
+   Phil Hagelberg (technomancy on #emacs)
+   Phil Jackson (magit)
+   Roland Winkler (bbdb v3)
+   Rubykitch (anything, http://www.rubyist.net/~rubikitch/index.en.html)
+   Stephen Eglen
+   T V Raman (emacspeak)
+   Steve Yegge
+   Tassilo Horn
+   Tobias C. Rittweiler (slime)
+   Tom Tromey (ELPA)
+   Tommy Thorn (haskell-mode)
+   Tomohiko Morioka
+   Tomohiro Matsuyama (auto-complete)
+   Vivek Dasmohapatra (elim)
+   Yuto Hayamizu (twiterring mode)
+   
 ** Maybe duplicate
 *** Dave Snowdon Org mode http://emacsconf.org/proposals/4
-
 
 ** Good for March
 *** Nic Ferrier
@@ -45,7 +93,7 @@
     can give a basic intro to Emacs
 
 ** Some dates in March unavailable for
-*** Ivan Kanis - can make it March 2nd
+*** Ivan Kanis - can't make it March 2nd
     Org mode with Getting Things Done
 
 *** Magnar Sveen - unavailable for 7-9
@@ -55,45 +103,98 @@
     Emacs Live http://emacsconf.org/proposals/45
     Maybe also: Meta-eX - music with Emacs Live and Overtone
 
-
-
 ** Unavailable for March
 *** Xue Fuqiao
     Can't make March, but can February, July and August.
-
 
 ** Interactive sessions
 
    How to deal with the interactive sessions like these?
 
-   http://emacsconf.org/proposals/41
-   http://emacsconf.org/proposals/43
-   http://emacsconf.org/proposals/44
-   http://emacsconf.org/proposals/46
-   http://emacsconf.org/proposals/47
+   We need an open space or room with table and chairs. Network would
+   be a plus.
 
+*** Hack night / hack lab
+    Your head will probably be spinning with ideas from all the great
+    sessions. Sit down and hack your config -- even if you've never
+    touched Emacs Lisp before! This will be a working session where
+    people can share what they're planning to work on (config, bugs,
+    new features, whatever), congregate in appropriate groups, and
+    hack away.
+
+*** Vimgolf in Emacs
+    Bring your own challenge for anyone to try to perform most
+    efficiently in emacs, or replicate some of Tim Visher's: http://
+    vimeo.com/timvisher/videos
+
+*** GTD and org mode
+
+*** Primer in list programing
 
 ** Nobody is covering
 
-   * "Beyond Emacs 24: the development roadmap"
+*** "Beyond Emacs 24: the development roadmap"
    http://emacsconf.org/proposals/24
 
-   * History of Emacs told by Mr. Stallman
+*** History of Emacs told by Mr. Stallman
    http://emacsconf.org/proposals/50
 
 
 ** How to deal with
 
    Set up/use Emacs for $LANGUAGE ?
-   http://emacsconf.org/proposals/15
-   http://emacsconf.org/proposals/20
-   http://emacsconf.org/proposals/30
-   http://emacsconf.org/proposals/33
-   http://emacsconf.org/proposals/34
 
    As in, what format should it be? What if some attendees arent
    interested in the config for a $LANGUAGE? How do you balance this
    out?
+
+
+*** C++ programming with Emacs
+    Emacs is a wonderful text editor but lacks some of the features of
+    modern IDE's - specially for C++ programming. Specifically,
+    Intelisense, integration with a help system and source code
+    navigation are lacking. No doubt C++ notoriously complex grammar
+    is partially to blame but the recent appearance of LLVM might
+    provide the tools needed to solve this problem.
+
+*** Java development in Emacs
+    There are some thing I still use eclipse for: - read my maven pom
+    file and use it to auto complete class names and method names -
+    auto generate javadoc with @param tags - auto-refactor: rename
+    methods/ classes, pulling code out into a separate method, etc -
+    automatically fix some compile errors (including auto-import
+    classes) - flymake style compile warnings - auto generate
+    getter/setter/toString/equals All of these sound like things
+    doable in emacs. would love to see how people do it. I've never
+    been able to get JDEE set up
+
+*** Python development with Emacs
+    Show how to configure emacs for python development. For
+    instance: - Setup auto completion (via ropemacs) - Configure emacs
+    to highlight syntax errors and PEP8 violations as you code (via
+    flymake) - Emacs virtualenv integration
+
+*** Clojure development with Emacs
+    Clojure is a Lisp that runs on the JVM with great support for
+    concurrency and easy integration with the plethora of java
+    libraries. I'd like to cover how to set up emacs as a great
+    environment for cutting Clojure code.
+
+    Emacs 24 is one of the best environment for learning Clojure and
+    as Emacs configuration is Lisp then you can easily configure it
+    with what you learn in Clojure. This session would help you
+    establish the perfect? clojure environment using the latest
+    version of Emacs, lots of great plugins for intelli-sense and REPL
+    auto-completion. Clojure is much more fun with a REPL, so we will
+    cover how to wire up Emacs with Leiningen 2 and also get
+    auto-completion inside the REPL buffer in Emacs. We also cover
+    writing your own macros to make writing Clojure even easier, eg.
+    creating function definitions automagically. All the way through
+    we will be learning all the relevant Emacs keyboard short-cuts
+    that speedup Clojure development, eg. allow you to evaluate code
+    function by function. We will even cover creating your own
+    keyboard shortcuts.
+
 
 ** Book raffle
 
