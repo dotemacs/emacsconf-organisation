@@ -14,13 +14,6 @@
 *** Paul Butcher
 *** Charles Turner
 *** Ryan White
-*** Joakim Verona (isn't sure about his availability, waiting for confirmation)
-*** Alex Ott
-
-
-** Maybe duplicate
-*** Dave Snowdon Org mode http://emacsconf.org/proposals/4
-
 
 ** Good for March
 *** Nic Ferrier
@@ -44,23 +37,36 @@
     author of http://david.rothlis.net/emacs/howtolearn.html
     can give a basic intro to Emacs
 
-** Some dates in March unavailable for
-*** Ivan Kanis - can make it March 2nd
-    Org mode with Getting Things Done
 
-*** Magnar Sveen - unavailable for 7-9
+** Some dates in March unavailable for
+*** Ivan Kanis
+    Can't make 2nd March.
+    Org mode with Getting Things Done.
+
+*** Magnar Sveen
+    Unavailable for 7-9th March.
     Emacs Rocks talk
 
-*** Sam Aaron - available only for 29th to 31st
+*** Sam Aaron
+    Available only for 29th to 31st.
     Emacs Live http://emacsconf.org/proposals/45
     Maybe also: Meta-eX - music with Emacs Live and Overtone
 
+** Waiting for confirmation
+*** Joakim Verona
+    isn't sure about his availability, waiting for confirmation
+
+*** Alex Ott
+    will confirm his availability at the beginning of January
 
 
 ** Unavailable for March
 *** Xue Fuqiao
     Can't make March, but can February, July and August.
 
+
+** Maybe duplicate
+*** Dave Snowdon Org mode http://emacsconf.org/proposals/4
 
 ** Interactive sessions
 
@@ -72,7 +78,6 @@
    http://emacsconf.org/proposals/46
    http://emacsconf.org/proposals/47
 
-
 ** Nobody is covering
 
    * "Beyond Emacs 24: the development roadmap"
@@ -80,7 +85,6 @@
 
    * History of Emacs told by Mr. Stallman
    http://emacsconf.org/proposals/50
-
 
 ** How to deal with
 
