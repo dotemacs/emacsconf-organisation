@@ -1,0 +1,54 @@
+* Persons that Ivan contacted
+   Alan Mackenzie (cc)
+   Alex Schroeder (emacs wiki)
+   Benjamin Drieu
+   Carl Worth (notmuch)
+   Carsten Dominik (org)
+   Damien Elmes (anki)
+   Dave Gillespie (calc)
+   Dave Love (haskell-mode)
+   Dave Pearson
+   David 'O Tool
+   David Kastrup (auctex)
+   Donald Knuth (check he still uses emacs)
+   Drew Adams (icicles)
+   Eric Hanchrow (offby1 on #emacs)
+   Eric Marsden (slime)
+   Jamie Zawinsky
+   Jay Belanger (calc maintainer)
+   John Sullivan (plannner maintainer)
+   John Wiegly
+   Jorgen Schaefer (http://www.jorgenschaefer.de/)
+   Julien Danjou (google-maps)
+   Kevin Storm (ido, cua)
+   Kyle Jones (vm)
+   Lars Magne Ingebrigtsen (gnus)
+   Luis Fernandes (http://www.ee.ryerson.ca/~elf/emacs/)
+   Luke Gorrie (slime)
+   Masatoshi Tsuchiya (w3m)
+   Matsushita (meadow, http://www.bookshelf.jp)
+   Michael Olson (muse)
+   Miles Bader
+   Phil Hagelberg (technomancy on #emacs)
+   Phil Jackson (magit)
+   Roland Winkler (bbdb v3)
+   Rubykitch (anything, http://www.rubyist.net/~rubikitch/index.en.html)
+   T V Raman (emacspeak)
+   Steve Yegge
+   Tassilo Horn
+   Tobias C. Rittweiler (slime)
+   Tom Tromey (ELPA)
+   Tomohiko Morioka
+   Tomohiro Matsuyama (auto-complete)
+   Vivek Dasmohapatra (elim)
+   Yuto Hayamizu (twiterring mode)
+   
+* e-mail that bounced (just for info)
+   
+   Graeme E Moss gem@cs.york.ac.uk (haskell)
+   Tommy Thorn thorn@irisa.fr (haskell)
+   Keisuke Nishida kei@psn.net (lookup)
+   Stephen Eglen stephen@cns.ed.ac.uk
+   Tobias C. Rittweiler stephen@cns.ed.ac.uk (slime) 
+   Lennart Borgman editor@OurComments.Org (nxhtml)
+   

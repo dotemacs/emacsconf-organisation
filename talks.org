@@ -14,7 +14,6 @@
 *** Paul Butcher
 *** Charles Turner
 *** Ryan White
-
 ** Good for March
 *** Nic Ferrier
     el-node
@@ -37,7 +36,6 @@
     author of http://david.rothlis.net/emacs/howtolearn.html
     can give a basic intro to Emacs
 
-
 ** Some dates in March unavailable for
 *** Ivan Kanis
     Can't make 2nd March.
@@ -47,10 +45,27 @@
     Unavailable for 7-9th March.
     Emacs Rocks talk
 
-*** Sam Aaron
+*** Sam Aaron Emacs Live
     Available only for 29th to 31st.
-    Emacs Live http://emacsconf.org/proposals/45
     Maybe also: Meta-eX - music with Emacs Live and Overtone
+
+    "Energy starts surging through your fingertips. Sparks fly, making
+    the shadows grow and flicker ominously around you."
+
+    This talk will introduce Emacs Live a pack-oriented structure for
+    managing your .emacs.d. Emacs Live ships with a number of optional
+    packs which add extra joy to your Emacs experience:
+
+      * Foundation Pack
+      * Colour Pack
+      * Clojure Pack
+      * Lang Pack
+      * Power Pack
+
+    These combine to make Emacs an extremely powerful Live Coding tool
+    with a specific focus on Clojure projects such as Quil and
+    Overtone. However, the fun starts when you start to make your own
+    packs...
 
 ** Waiting for confirmation
 *** Joakim Verona
@@ -59,45 +74,98 @@
 *** Alex Ott
     will confirm his availability at the beginning of January
 
-
 ** Unavailable for March
 *** Xue Fuqiao
     Can't make March, but can February, July and August.
 
-
 ** Maybe duplicate
-*** Dave Snowdon Org mode http://emacsconf.org/proposals/4
-
+*** Dave Snowdon Org mode
+    Demonstration of how to get the best out of org mode
 ** Interactive sessions
 
    How to deal with the interactive sessions like these?
 
-   http://emacsconf.org/proposals/41
-   http://emacsconf.org/proposals/43
-   http://emacsconf.org/proposals/44
-   http://emacsconf.org/proposals/46
-   http://emacsconf.org/proposals/47
+   We need an open space or room with table and chairs. Network would
+   be a plus.
+
+*** Hack night / hack lab
+    Your head will probably be spinning with ideas from all the great
+    sessions. Sit down and hack your config -- even if you've never
+    touched Emacs Lisp before! This will be a working session where
+    people can share what they're planning to work on (config, bugs,
+    new features, whatever), congregate in appropriate groups, and
+    hack away.
+
+*** Vimgolf in Emacs
+    Bring your own challenge for anyone to try to perform most
+    efficiently in emacs, or replicate some of Tim Visher's: http://
+    vimeo.com/timvisher/videos
+
+*** GTD and org mode
+
+*** Primer in Lisp programing
 
 ** Nobody is covering
 
-   * "Beyond Emacs 24: the development roadmap"
-   http://emacsconf.org/proposals/24
+*** "Beyond Emacs 24: the development roadmap"
+    http://emacsconf.org/proposals/24
 
-   * History of Emacs told by Mr. Stallman
+*** History of Emacs told by Mr. Stallman
    http://emacsconf.org/proposals/50
 
 ** How to deal with
 
    Set up/use Emacs for $LANGUAGE ?
-   http://emacsconf.org/proposals/15
-   http://emacsconf.org/proposals/20
-   http://emacsconf.org/proposals/30
-   http://emacsconf.org/proposals/33
-   http://emacsconf.org/proposals/34
 
    As in, what format should it be? What if some attendees arent
    interested in the config for a $LANGUAGE? How do you balance this
    out?
+
+*** C++ programming with Emacs
+    Emacs is a wonderful text editor but lacks some of the features of
+    modern IDE's - specially for C++ programming. Specifically,
+    Intelisense, integration with a help system and source code
+    navigation are lacking. No doubt C++ notoriously complex grammar
+    is partially to blame but the recent appearance of LLVM might
+    provide the tools needed to solve this problem.
+
+*** Java development in Emacs
+    There are some thing I still use eclipse for: - read my maven pom
+    file and use it to auto complete class names and method names -
+    auto generate javadoc with @param tags - auto-refactor: rename
+    methods/ classes, pulling code out into a separate method, etc -
+    automatically fix some compile errors (including auto-import
+    classes) - flymake style compile warnings - auto generate
+    getter/setter/toString/equals All of these sound like things
+    doable in emacs. would love to see how people do it. I've never
+    been able to get JDEE set up
+
+*** Python development with Emacs
+    Show how to configure emacs for python development. For
+    instance: - Setup auto completion (via ropemacs) - Configure emacs
+    to highlight syntax errors and PEP8 violations as you code (via
+    flymake) - Emacs virtualenv integration
+
+*** Clojure development with Emacs
+    Clojure is a Lisp that runs on the JVM with great support for
+    concurrency and easy integration with the plethora of java
+    libraries. I'd like to cover how to set up emacs as a great
+    environment for cutting Clojure code.
+
+    Emacs 24 is one of the best environment for learning Clojure and
+    as Emacs configuration is Lisp then you can easily configure it
+    with what you learn in Clojure. This session would help you
+    establish the perfect? clojure environment using the latest
+    version of Emacs, lots of great plugins for intelli-sense and REPL
+    auto-completion. Clojure is much more fun with a REPL, so we will
+    cover how to wire up Emacs with Leiningen 2 and also get
+    auto-completion inside the REPL buffer in Emacs. We also cover
+    writing your own macros to make writing Clojure even easier, eg.
+    creating function definitions automagically. All the way through
+    we will be learning all the relevant Emacs keyboard short-cuts
+    that speedup Clojure development, eg. allow you to evaluate code
+    function by function. We will even cover creating your own
+    keyboard shortcuts.
 
 ** Book raffle
 
