@@ -13,6 +13,7 @@
 
 * Will talk
 ** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
+** Joe Cornelie (project Arxana) holtzermann17 --at-- gmail --dot-- com
 * Might talk
 ** Jay Belanger (calc maintainer) jay --dot-- p.belanger --at-- gmail.com
    I've seen the discussion of the conference, and I wish I could be
