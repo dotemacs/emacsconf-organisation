@@ -1,5 +1,4 @@
 * Speakers and availabilty
-
 ** Waiting on reply
 *** Sean O'Halpin
 *** Steve Mynott
@@ -15,6 +14,10 @@
 *** Charles Turner
 *** Ryan White
 ** Good for March
+*** Luke Gorrie
+    How to write an IDE like SLIME
+    20 minute timeslot rather than a longer one.
+
 *** Nic Ferrier
     el-node
 

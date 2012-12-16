@@ -11,6 +11,8 @@
   - Talks organization document:
     https://github.com/dotemacs/emacsconf-organisation/blob/master/talks.org
 
+* Will talk
+** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
 * Might talk
 ** Jay Belanger (calc maintainer) jay --dot-- p.belanger --at-- gmail.com
    I've seen the discussion of the conference, and I wish I could be
@@ -24,9 +26,6 @@
 ** Julien Danjou julien --at-- danjou --dot-- info
    Why not! Not sure I'd be there yet, nor about what I'd talk about, but
    I'll keep that in mind. :)
-** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
-   Great idea to have an Emacs conference, and I think it would be
-   excellent to have a SLIME talk.
 ** Michael Olson (muse) mwolson --at-- gnu --dot-- org
    That might be fun.  Will the conference mainly target users of Emacs,
    developers of Emacs Lisp software, or a little bit of everything?
