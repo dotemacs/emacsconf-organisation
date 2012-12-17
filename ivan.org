@@ -25,7 +25,7 @@
 
    So let me get back to you later. And please feel free to ping me again
    if you need a reply and haven't heard from me yet.
-** Jay Belanger (calc maintainer) jay --dot-- p.belanger --at-- gmail.com
+** Jay Belanger (calc maintainer) jay --dot-- p --dot-- belanger --at-- gmail --dot-- com
    I've seen the discussion of the conference, and I wish I could be
    there. Right now it is very unlikely I'll be able to make it,
    however. (If things change and I can make it, I'd be happy to give
