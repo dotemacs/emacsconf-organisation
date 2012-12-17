@@ -12,9 +12,19 @@
     https://github.com/dotemacs/emacsconf-organisation/blob/master/talks.org
 
 * Will talk
-** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
 ** Joe Cornelie (project Arxana) holtzermann17 --at-- gmail --dot-- com
+** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
+** Steve Yegge steve --dot-- yegge --at-- gmail.com
 * Might talk
+** Carl Worth (notmuch) cworth --at-- cworth --dot-- org
+   The Emacs Conference does sound interesting, and I agree it would
+   be worthwhile to have someone presenting on notmuch there. I'm
+   currently looking into my availability, (as well as checking
+   whether one of the currently most-active notmuch developers would
+   be interested in speaking there).
+
+   So let me get back to you later. And please feel free to ping me again
+   if you need a reply and haven't heard from me yet.
 ** Jay Belanger (calc maintainer) jay --dot-- p.belanger --at-- gmail.com
    I've seen the discussion of the conference, and I wish I could be
    there. Right now it is very unlikely I'll be able to make it,
@@ -31,6 +41,7 @@
    That might be fun.  Will the conference mainly target users of Emacs,
    developers of Emacs Lisp software, or a little bit of everything?
 ** Vivek Dasmohapatra (elim) vivek --at-- etla --dot-- org
+** Phil Jackson (magit) phil --at-- shellarchive --dot-- co.uk
 * Would like to come
 ** John Sullivan (plannner maintainer) john --at-- wjsullivan --dot-- net
    March is a difficult month for me though. FSF hosts our LibrePlanet
@@ -38,6 +49,7 @@
    2nd and March 30th. Do you think the dates might work out around
    that? Please do keep me posted!
 * Will not come
+** Alex Schroeder (emacs wiki) kensanata --at-- gmail --dot-- com
 ** Damien Elmes (anki) web --at-- ichi2 --dot-- net
 ** Craig Finseth craigfinseth --at-- gmail --dot-- com
 ** Eric Hanchrow  --at-- ehanchrow
@@ -46,11 +58,12 @@
    @ivankanis I would like to but travel for me around that time would
    be difficult. - @technomancy
 ** Roland Winkler (bbdb v3) winkler --at-- gnu --dot-- org
+** Tassilo Horn  --at-- tsdh80
+** Benjamin Drieu bdrieu --at-- april --dot-- org
+** Jamie Zawinsky jwz --at-- jwz --dot-- org
+** David Edmondson (notmuch) dme --at-- dme --dot-- org
 * Waiting for reply
 ** Alan Mackenzie (cc) acm --at-- muc --dot-- de
-** Alex Schroeder (emacs wiki) kensanata --at-- gmail --dot-- com
-** Benjamin Drieu bdrieu --at-- april --dot-- org
-** Carl Worth (notmuch) cworth --at-- cworth --dot-- org
 ** Carsten Dominik (org) carsten --at-- orgmode --dot-- org
 ** Dave Gillespie (calc) daveg --at-- synaptics --dot-- com
 ** Dave Love (haskell-mode) fx --at-- gnu --dot-- org
@@ -58,7 +71,7 @@
 ** David Kastrup (auctex) dak --at-- gnu --dot-- org
 ** Donald Knuth taocp --at-- cs --dot-- stanford.edu
 ** Drew Adams (icicles) via emacs wiki
-** Jamie Zawinsky jwz --at-- jwz --dot-- org
+** Frederic Couchet frederic --at-- couchet --dot-- org
 ** John Wiegly johnw --at-- newartisans --dot-- com
 ** Jorgen Schaefer contact --at-- jorgenschaefer --dot-- de
 ** Kevin Storm (ido, cua) storm --at-- cua --dot-- dk
@@ -66,13 +79,10 @@
 ** Lars Magne Ingebrigtsen (gnus) lmi --at-- gnus --dot-- org
 ** Luis Fernandes elf --at-- ee --dot-- ryerson.ca
 ** Masatoshi Tsuchiya (w3m) tsuchiya --at-- namazu --dot-- org
-** Matsushita (meadow, http://www --dot-- bookshelf.jp) akihisa --at-- mail.ne.jp
+** Matsushita (meadow) akihisa --at-- mail.ne.jp
 ** Miles Bader miles --at-- gnu --dot-- org
-** Phil Jackson (magit) phil --at-- shellarchive --dot-- co.uk
 ** Rubykitch (anything) rubikitch --at-- ruby-lang --dot-- org
 ** T V Raman (emacspeak) sent to emacspeak mailing list
-** Steve Yegge steve --dot-- yegge --at-- gmail.com
-** Tassilo Horn  --at-- tsdh80
 ** Tobias C --dot--  Rittweiler (slime)
 ** Tom Tromey (ELPA) elpa --at-- tromey --dot-- com
 ** Tomohiko Morioka tomohiko --dot-- morioka --at-- xemacs.org
