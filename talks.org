@@ -26,7 +26,7 @@
     20 minute timeslot rather than a longer one.
 
 *** Nic Ferrier
-    el-node
+    elnode
 
 *** Sacha Chua
     Keynote?
