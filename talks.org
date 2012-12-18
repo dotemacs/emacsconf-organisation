@@ -17,6 +17,9 @@
 *** Joe Corneli
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
+    [Note about scheduling: as I live near London, any day(s) works in
+    theory, but since I'm submitting my thesis, later in the month
+    would be better for if that's possible.  Cheers! -Joe]
     
 *** Luke Gorrie
     How to write an IDE like SLIME
