@@ -19,7 +19,7 @@
     concerning word processing, electronic publishing, hypertext, etc.
     [Note about scheduling: as I live near London, any day(s) works in
     theory, but since I'm submitting my thesis, later in the month
-    would be better for if that's possible.  Cheers! -Joe]
+    would be better for me if that's possible.  Cheers! -Joe]
     
 *** Luke Gorrie
     How to write an IDE like SLIME
