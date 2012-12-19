@@ -1,3 +1,20 @@
+What: Emacs conference for users and developpers
+
+When: March, 30 and 31
+
+Where: Forward http://www.forward.co.uk/contact
+
+Various other resources:
+
+  - Web site:
+    http://emacsconf.org
+
+  - Mailing list:
+    http://lists.hugadev.com/listinfo.cgi/emacs-conf-hugadev.com
+
+  - Twitter account
+    @EmacsConf
+
 * Speakers and availabilty
 ** Waiting on reply
 *** Sean O'Halpin
