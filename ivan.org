@@ -42,13 +42,13 @@
    That might be fun.  Will the conference mainly target users of Emacs,
    developers of Emacs Lisp software, or a little bit of everything?
 ** Vivek Dasmohapatra (elim) vivek --at-- etla --dot-- org
-** Phil Jackson (magit) phil --at-- shellarchive --dot-- co.uk
 * Would like to come
 ** John Sullivan (plannner maintainer) john --at-- wjsullivan --dot-- net
    March is a difficult month for me though. FSF hosts our LibrePlanet
    conference March 22nd-24th, and I am also already booked for March
    2nd and March 30th. Do you think the dates might work out around
    that? Please do keep me posted!
+** Phil Jackson (magit) phil --at-- shellarchive --dot-- co.uk
 * Will not come
 ** Alex Schroeder (emacs wiki) kensanata --at-- gmail --dot-- com
 ** Damien Elmes (anki) web --at-- ichi2 --dot-- net
