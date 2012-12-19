@@ -18,41 +18,68 @@ Various other resources:
 * Speakers and availabilty
 ** Confirmed
 *** Joe Corneli
+
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
-    [Note about scheduling: as I live near London, any day(s) works in
-    theory, but since I'm submitting my thesis, later in the month
-    would be better for me if that's possible.  Cheers! -Joe]
     
 *** Luke Gorrie
+
     How to write an IDE like SLIME
     20 minute timeslot rather than a longer one.
 
 *** Nic Ferrier
+
     elnode
 
 *** Sacha Chua
+
     Keynote?
 
 *** Dimitri Fontaine
-    - el-get
-    - Emacs Lisp Primer
+    el-get and Emacs Lisp Primer
+
+*** Dave Snowdon Org mode
+    Demonstration of how to get the best out of org mode
 
 *** Bastien
+
     Org mode, or something nobody else is covering
 
 *** Jim Myhrberg
+
     Can cover Git usage via Emacs, but would give up his place for
     somebody more seasoned user who's more versed about the topic
 
+*** Steve Yegge
+
+    Waiting on what presentation he will give
+
 *** David Röthlisberger
+
     author of http://david.rothlis.net/emacs/howtolearn.html
     can give a basic intro to Emacs
 
-** Some dates in March unavailable for
-*** Ivan Kanis
-    Can't make 2nd March.
-    Org mode with Getting Things Done.
+** Maybe
+
+*** Carl Worth (notmuch)
+    The Emacs Conference does sound interesting, and I agree it would
+    be worthwhile to have someone presenting on notmuch there. I'm
+    currently looking into my availability, (as well as checking
+    whether one of the currently most-active notmuch developers would
+    be interested in speaking there).
+
+    So let me get back to you later. And please feel free to ping me again
+    if you need a reply and haven't heard from me yet.
+
+*** Jay Belanger (calc maintainer)
+    I've seen the discussion of the conference, and I wish I could be
+    there. Right now it is very unlikely I'll be able to make it,
+    however. (If things change and I can make it, I'd be happy to give
+    a presentation.)
+    Maybe something about Calc and how it interacts with other buffers
+
+*** John Wiegly
+    I would be happy to give a presentation.  Any preferred topic ideas?
 
 *** Magnar Sveen
     Unavailable for 7-9th March.
@@ -82,18 +109,18 @@ Various other resources:
 
 ** Waiting for confirmation
 *** Joakim Verona
+
     isn't sure about his availability, waiting for confirmation
 
 *** Alex Ott
+
     will confirm his availability at the beginning of January
 
 ** Unavailable for March
+
 *** Xue Fuqiao
     Can't make March, but can February, July and August.
 
-** Maybe duplicate
-*** Dave Snowdon Org mode
-    Demonstration of how to get the best out of org mode
 ** Interactive sessions
 
    How to deal with the interactive sessions like these?
@@ -115,24 +142,20 @@ Various other resources:
     vimeo.com/timvisher/videos
 
 *** GTD and org mode
+    I will show how I take care of GTD with org-mode. (Ivan Kanis)
 
 *** Primer in Lisp programing
+    Ask me what you are trying to do with Emacs and I will show you
+    how to do it with elisp. (Ivan Kanis)
 
 ** Nobody is covering
 
-*** "Beyond Emacs 24: the development roadmap"
-    http://emacsconf.org/proposals/24
+*** Beyond Emacs 24: the development roadmap
+    Recently talked about on emacs development list. There is no
+    roadmap. Should there be one?
 
 *** History of Emacs told by Mr. Stallman
-   http://emacsconf.org/proposals/50
-
-** How to deal with
-
-   Set up/use Emacs for $LANGUAGE ?
-
-   As in, what format should it be? What if some attendees arent
-   interested in the config for a $LANGUAGE? How do you balance this
-   out?
+    Would be nice but RMS is not in Europe in March.
 
 *** C++ programming with Emacs
     Emacs is a wonderful text editor but lacks some of the features of
@@ -204,3 +227,4 @@ Various other resources:
    One issue I see with this, is when the publishers send over titles,
    the customs hold them up sometimes even thought they are marked as
    'gifts'.
+
