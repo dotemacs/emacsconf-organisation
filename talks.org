@@ -16,21 +16,7 @@ Various other resources:
     @EmacsConf
 
 * Speakers and availabilty
-** Waiting on reply
-*** Sean O'Halpin
-*** Steve Mynott
-*** Thomas Koch
-*** Ryan Davis
-*** Rahmu
-*** Dave Snowdon
-*** Kristian Hellquist
-*** Johan Andersson
-*** Jim Crossley
-*** Duncan MacGregor
-*** Paul Butcher
-*** Charles Turner
-*** Ryan White
-** Good for March
+** Confirmed
 *** Joe Corneli
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
@@ -193,6 +179,21 @@ Various other resources:
     that speedup Clojure development, eg. allow you to evaluate code
     function by function. We will even cover creating your own
     keyboard shortcuts.
+
+** Waiting on reply (see also ivan.org)
+   Sean O'Halpin
+   Steve Mynott
+   Thomas Koch
+   Ryan Davis
+   Rahmu
+   Dave Snowdon
+   Kristian Hellquist
+   Johan Andersson
+   Jim Crossley
+   Duncan MacGregor
+   Paul Butcher
+   Charles Turner
+   Ryan White
 
 ** Book raffle
 
