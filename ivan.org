@@ -30,6 +30,7 @@
    there. Right now it is very unlikely I'll be able to make it,
    however. (If things change and I can make it, I'd be happy to give
    a presentation.)
+   Maybe something about Calc and how it interacts with other buffers
 ** John Wiegly johnw --at-- newartisans --dot-- com
    I would be happy to give a presentation.  Any preferred topic ideas?
 * Might attend
@@ -62,19 +63,20 @@
 ** Benjamin Drieu bdrieu --at-- april --dot-- org
 ** Jamie Zawinsky jwz --at-- jwz --dot-- org
 ** David Edmondson (notmuch) dme --at-- dme --dot-- org
+** David 'O Tool dto --at-- ioforms --dot-- org
+** Kim Storm (ido, cua) storm --at-- cua --dot-- dk
+** Yuto Hayamizu (twiterring mode) y --dot-- hayamizu --at-- gmail.com
 * Waiting for reply
 ** Alan Mackenzie (cc) acm --at-- muc --dot-- de
 ** Carsten Dominik (org) carsten --at-- orgmode --dot-- org
 ** Dave Gillespie (calc) daveg --at-- synaptics --dot-- com
 ** Dave Love (haskell-mode) fx --at-- gnu --dot-- org
-** David 'O Tool dto --at-- ioforms --dot-- org
 ** David Kastrup (auctex) dak --at-- gnu --dot-- org
 ** Donald Knuth taocp --at-- cs --dot-- stanford.edu
 ** Drew Adams (icicles) via emacs wiki
 ** Frederic Couchet frederic --at-- couchet --dot-- org
 ** John Wiegly johnw --at-- newartisans --dot-- com
 ** Jorgen Schaefer contact --at-- jorgenschaefer --dot-- de
-** Kevin Storm (ido, cua) storm --at-- cua --dot-- dk
 ** Kyle Jones (vm) webmaster --at-- wonderworks --dot-- com
 ** Lars Magne Ingebrigtsen (gnus) lmi --at-- gnus --dot-- org
 ** Luis Fernandes elf --at-- ee --dot-- ryerson.ca
@@ -87,7 +89,6 @@
 ** Tom Tromey (ELPA) elpa --at-- tromey --dot-- com
 ** Tomohiko Morioka tomohiko --dot-- morioka --at-- xemacs.org
 ** Tomohiro Matsuyama (auto-complete) m2ym --dot-- pub --at-- gmail.com
-** Yuto Hayamizu (twiterring mode) y --dot-- hayamizu --at-- gmail.com
 * e-mail that bounced (just for info)
 **  Graeme E Moss gem --at-- cs --dot-- york.ac.uk (haskell)
 **  Tommy Thorn thorn --at-- irisa --dot-- fr (haskell)
