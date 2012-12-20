@@ -15,6 +15,9 @@ Various other resources:
   - Twitter account
     @EmacsConf
 
+  - Lanyrd
+    http://lanyrd.com/ckwgg
+
 * Speakers and availabilty
 ** Confirmed
 *** Joe Corneli
