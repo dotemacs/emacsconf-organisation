@@ -39,6 +39,7 @@ Various other resources:
     el-get and Emacs Lisp Primer
 
 *** Dave Snowdon Org mode
+
     Demonstration of how to get the best out of org mode
 
 *** Bastien
@@ -59,6 +60,9 @@ Various other resources:
     author of http://david.rothlis.net/emacs/howtolearn.html
     can give a basic intro to Emacs
 
+*** Vivek Dasmohapatra
+    elim
+    that'll cover a few areas. Widgets. External processes.
 ** Maybe
 
 *** Carl Worth (notmuch)
