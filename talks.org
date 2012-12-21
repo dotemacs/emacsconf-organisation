@@ -15,13 +15,16 @@ Various other resources:
   - Twitter account
     @EmacsConf
 
+  - Lanyrd
+    http://lanyrd.com/ckwgg
+
 * Speakers and availabilty
 ** Confirmed
 *** Joe Corneli
 
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
-    
+
 *** Luke Gorrie
 
     How to write an IDE like SLIME
@@ -63,6 +66,25 @@ Various other resources:
 *** Vivek Dasmohapatra
     elim
     that'll cover a few areas. Widgets. External processes.
+
+*** Joakim Verona
+    Joakim suggested:
+    I presented the xwidget branch previously at a gnu hacker meeting. This
+    time I would like to do it a little bit differently, to involve hackers
+    rather than just present what you can do. So, more of a technical
+    session where attendants are asked to compile the branch in advance and
+    so on. What do you think of this?
+
+*** Duncan MacGregor
+    Would like to do a lightning/short talk
+
+*** Ryan White
+
+    Proposed 'Emacs from scratch', keener to see this idea presented
+    rather than presenting. But can present if required.
+
+    If this talk gets chosen, then will need to be contacted.
+
 ** Maybe
 
 *** Carl Worth (notmuch)
@@ -111,11 +133,8 @@ Various other resources:
     Overtone. However, the fun starts when you start to make your own
     packs...
 
+
 ** Waiting for confirmation
-*** Joakim Verona
-
-    isn't sure about his availability, waiting for confirmation
-
 *** Alex Ott
 
     will confirm his availability at the beginning of January
@@ -211,16 +230,13 @@ Various other resources:
    Sean O'Halpin
    Steve Mynott
    Thomas Koch
-   Ryan Davis
    Rahmu
    Dave Snowdon
    Kristian Hellquist
    Johan Andersson
    Jim Crossley
-   Duncan MacGregor
-   Paul Butcher
    Charles Turner
-   Ryan White
+
 
 ** Book raffle
 
@@ -231,4 +247,3 @@ Various other resources:
    One issue I see with this, is when the publishers send over titles,
    the customs hold them up sometimes even thought they are marked as
    'gifts'.
-
