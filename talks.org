@@ -52,7 +52,7 @@ Various other resources:
     session where attendants are asked to compile the branch in advance and
     so on. What do you think of this?
 
-*** Joe Corneli
+*** Joe Corneli, All Yesterday's Tomorrows (30 minutes)
 
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
@@ -61,10 +61,7 @@ Various other resources:
 
     I would be happy to give a presentation.  Any preferred topic ideas?
 
-*** Luke Gorrie
-
-    How to write an IDE like SLIME
-    20 minute timeslot rather than a longer one.
+*** Luke Gorrie,  How to write an IDE like SLIME (20 minutes)
 
 *** Nic Ferrier
 
@@ -80,6 +77,22 @@ Various other resources:
 *** Sacha Chua
 
     Keynote?
+
+*** Steve Yegge, Grok Emacs, (30 minutes to one hour)
+
+    Well, the project is called Grok. I did a talk on it at Stanford
+    recently (http://www.youtube.com/watch?v=KTJs-0EInW8), although it's
+    mostly about the backend and only shows a screen shot or two of the
+    Emacs client.
+
+    The emacs mode is, of course, Grok Emacs. It's actually a minor mode
+    that overlays on whatever major mode you're using. We currently
+    support C++, Java, JavaScript, Python, Go, and a few internal
+    languages.
+
+    I could do a quick overview in 30 min, or a deep dive in an hour.
+    I should be able to log in to work over VPN and give live demos
+    of it in action.
 
 *** Vivek Dasmohapatra
     elim
@@ -129,10 +142,6 @@ Various other resources:
     with a specific focus on Clojure projects such as Quil and
     Overtone. However, the fun starts when you start to make your own
     packs...
-
-*** Steve Yegge
-
-    Waiting on what presentation he will give
 
 ** Waiting for confirmation
 *** Alex Ott
