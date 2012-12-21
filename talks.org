@@ -81,10 +81,6 @@ Various other resources:
 
     Keynote?
 
-*** Steve Yegge
-
-    Waiting on what presentation he will give
-
 *** Vivek Dasmohapatra
     elim
     that'll cover a few areas. Widgets. External processes.
@@ -133,6 +129,10 @@ Various other resources:
     with a specific focus on Clojure projects such as Quil and
     Overtone. However, the fun starts when you start to make your own
     packs...
+
+*** Steve Yegge
+
+    Waiting on what presentation he will give
 
 ** Waiting for confirmation
 *** Alex Ott
