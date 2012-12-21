@@ -18,7 +18,7 @@
    however. (If things change and I can make it, I'd be happy to give
    a presentation.)
    Maybe something about Calc and how it interacts with other buffers
-** John Wiegly johnw --at-- newartisans --dot-- com
+** John Wiegley johnw --at-- newartisans --dot-- com
    I would be happy to give a presentation.  Any preferred topic ideas?
 * Might attend
 ** Dave Pearson davep --at-- davep --dot-- org
@@ -62,7 +62,7 @@
 ** Donald Knuth taocp --at-- cs --dot-- stanford.edu
 ** Drew Adams (icicles) via emacs wiki
 ** Frederic Couchet frederic --at-- couchet --dot-- org
-** John Wiegly johnw --at-- newartisans --dot-- com
+** John Wiegley johnw --at-- newartisans --dot-- com
 ** Jorgen Schaefer contact --at-- jorgenschaefer --dot-- de
 ** Kyle Jones (vm) webmaster --at-- wonderworks --dot-- com
 ** Lars Magne Ingebrigtsen (gnus) lmi --at-- gnus --dot-- org
