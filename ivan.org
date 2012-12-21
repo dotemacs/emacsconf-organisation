@@ -1,16 +1,3 @@
-* resources
-  - Web site:
-    http://emacsconf.org
-
-  - Mailing list:
-    http://lists.hugadev.com/listinfo.cgi/emacs-conf-hugadev.com
-
-  - Twitter account
-    @EmacsConf
-
-  - Talks organization document:
-    https://github.com/dotemacs/emacsconf-organisation/blob/master/talks.org
-
 * Will talk
 ** Joe Cornelie (project Arxana) holtzermann17 --at-- gmail --dot-- com
 ** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
