@@ -4,6 +4,7 @@
 ** Steve Yegge steve --dot-- yegge --at-- gmail.com
 * Might talk
 ** Carl Worth (notmuch) cworth --at-- cworth --dot-- org
+
    The Emacs Conference does sound interesting, and I agree it would
    be worthwhile to have someone presenting on notmuch there. I'm
    currently looking into my availability, (as well as checking
