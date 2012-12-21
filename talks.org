@@ -20,10 +20,46 @@ Various other resources:
 
 * Speakers and availabilty
 ** Confirmed
+*** Bastien Guerry
+
+    Org mode, or something nobody else is covering
+
+*** Dave Snowdon
+
+    Demonstration of how to get the best out of org mode
+
+*** David Röthlisberger
+
+    author of http://david.rothlis.net/emacs/howtolearn.html
+    can give a basic intro to Emacs
+
+*** Dimitri Fontaine
+    el-get and Emacs Lisp Primer
+
+*** Duncan MacGregor
+    Would like to do a lightning/short talk
+
+*** Jim Myhrberg
+
+    Can cover Git usage via Emacs, but would give up his place for
+    somebody more seasoned user who's more versed about the topic
+
+*** Joakim Verona
+    Joakim suggested:
+    I presented the xwidget branch previously at a gnu hacker meeting. This
+    time I would like to do it a little bit differently, to involve hackers
+    rather than just present what you can do. So, more of a technical
+    session where attendants are asked to compile the branch in advance and
+    so on. What do you think of this?
+
 *** Joe Corneli
 
     All Yesterday's Tomorrows: The report on, and of, Project Arxana
     concerning word processing, electronic publishing, hypertext, etc.
+
+*** John Wiegly
+
+    I would be happy to give a presentation.  Any preferred topic ideas?
 
 *** Luke Gorrie
 
@@ -34,50 +70,6 @@ Various other resources:
 
     elnode
 
-*** Sacha Chua
-
-    Keynote?
-
-*** Dimitri Fontaine
-    el-get and Emacs Lisp Primer
-
-*** Dave Snowdon Org mode
-
-    Demonstration of how to get the best out of org mode
-
-*** Bastien
-
-    Org mode, or something nobody else is covering
-
-*** Jim Myhrberg
-
-    Can cover Git usage via Emacs, but would give up his place for
-    somebody more seasoned user who's more versed about the topic
-
-*** Steve Yegge
-
-    Waiting on what presentation he will give
-
-*** David Röthlisberger
-
-    author of http://david.rothlis.net/emacs/howtolearn.html
-    can give a basic intro to Emacs
-
-*** Vivek Dasmohapatra
-    elim
-    that'll cover a few areas. Widgets. External processes.
-
-*** Joakim Verona
-    Joakim suggested:
-    I presented the xwidget branch previously at a gnu hacker meeting. This
-    time I would like to do it a little bit differently, to involve hackers
-    rather than just present what you can do. So, more of a technical
-    session where attendants are asked to compile the branch in advance and
-    so on. What do you think of this?
-
-*** Duncan MacGregor
-    Would like to do a lightning/short talk
-
 *** Ryan White
 
     Proposed 'Emacs from scratch', keener to see this idea presented
@@ -85,8 +77,20 @@ Various other resources:
 
     If this talk gets chosen, then will need to be contacted.
 
-** Maybe
+*** Sacha Chua
 
+    Keynote?
+
+*** Steve Yegge
+
+    Waiting on what presentation he will give
+
+*** Vivek Dasmohapatra
+    elim
+    that'll cover a few areas. Widgets. External processes.
+
+
+** Maybe
 *** Carl Worth (notmuch)
     The Emacs Conference does sound interesting, and I agree it would
     be worthwhile to have someone presenting on notmuch there. I'm
@@ -103,9 +107,6 @@ Various other resources:
     however. (If things change and I can make it, I'd be happy to give
     a presentation.)
     Maybe something about Calc and how it interacts with other buffers
-
-*** John Wiegly
-    I would be happy to give a presentation.  Any preferred topic ideas?
 
 *** Magnar Sveen
     Unavailable for 7-9th March.
@@ -132,7 +133,6 @@ Various other resources:
     with a specific focus on Clojure projects such as Quil and
     Overtone. However, the fun starts when you start to make your own
     packs...
-
 
 ** Waiting for confirmation
 *** Alex Ott
