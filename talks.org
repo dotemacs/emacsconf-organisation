@@ -71,6 +71,20 @@ Various other resources:
 
 *** Luke Gorrie,  How to write an IDE like SLIME (20 minutes)
 
+*** Michael Olson, From Marmalade To Emacs
+
+    How to get an existing Emacs add-on into the Emacs codebase (or
+    how to make a new add-on that is easy to get into Emacs). Scaled
+    up version of previous talk. How to keep track of code authors or
+    discover them from logs and git blame.
+
+    How to send requests for copyright assignment. Handling copyright
+    headers in files. License choice in manuals, Debian vs. GNU
+    considerations. Pros/cons of maintaining a separate version of
+    your code after it has gone to Emacs, and strategies for handling
+    it. Expectations for being on emacs-devel list to weigh in on
+    patches.
+
 *** Nic Ferrier
 
     elnode
