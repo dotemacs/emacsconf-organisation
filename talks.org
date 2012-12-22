@@ -22,7 +22,15 @@ Various other resources:
 ** Confirmed
 *** Bastien Guerry
 
-    Org mode, or something nobody else is covering
+    "In Praise of the Org Community"
+
+    Org does break many FLOSS (golden?) rules about good practices in
+    developing free softwares: we have no real bug tracker (sorry Joel), we
+    don't have separate mailing lists for devs vs. users, and we don't have
+    a roadmap (but Emacs doesn't either, right?)
+
+    I'd like to step back and think a bit about this -- and the connection
+    with the way our community works.
 
 *** Dave Snowdon
 
