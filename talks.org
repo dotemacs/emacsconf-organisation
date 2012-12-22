@@ -85,10 +85,6 @@ Various other resources:
     it. Expectations for being on emacs-devel list to weigh in on
     patches.
 
-*** Nic Ferrier
-
-    elnode
-
 *** Ryan White
 
     Proposed 'Emacs from scratch', keener to see this idea presented
@@ -142,6 +138,10 @@ Various other resources:
 *** Magnar Sveen
     Unavailable for 7-9th March.
     Emacs Rocks talk
+
+*** Nic Ferrier
+
+    elnode
 
 *** Sam Aaron Emacs Live
     Available only for 29th to 31st.
