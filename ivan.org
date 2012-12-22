@@ -1,22 +1,10 @@
-* resources
-  - Web site:
-    http://emacsconf.org
-
-  - Mailing list:
-    http://lists.hugadev.com/listinfo.cgi/emacs-conf-hugadev.com
-
-  - Twitter account
-    @EmacsConf
-
-  - Talks organization document:
-    https://github.com/dotemacs/emacsconf-organisation/blob/master/talks.org
-
 * Will talk
 ** Joe Cornelie (project Arxana) holtzermann17 --at-- gmail --dot-- com
 ** Luke Gorrie (slime) lukego --at-- gmail --dot-- com
 ** Steve Yegge steve --dot-- yegge --at-- gmail.com
 * Might talk
 ** Carl Worth (notmuch) cworth --at-- cworth --dot-- org
+
    The Emacs Conference does sound interesting, and I agree it would
    be worthwhile to have someone presenting on notmuch there. I'm
    currently looking into my availability, (as well as checking
