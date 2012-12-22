@@ -20,7 +20,7 @@ Various other resources:
 
 * Speakers and availabilty
 ** Confirmed
-*** Bastien Guerry
+*** Bastien Guerry, In Praise Of The Org Community  (10 minutes)
 
     "In Praise of the Org Community"
 
