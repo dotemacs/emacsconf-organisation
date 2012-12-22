@@ -52,7 +52,7 @@ Various other resources:
     Can cover Git usage via Emacs, but would give up his place for
     somebody more seasoned user who's more versed about the topic
 
-*** Joakim Verona,  The xwidget Branch, will speak in the morning
+*** Joakim Verona,  The xwidget Branch, need to speak early in the morning
     Joakim suggested:
     I presented the xwidget branch previously at a gnu hacker meeting. This
     time I would like to do it a little bit differently, to involve hackers
