@@ -71,7 +71,7 @@ Various other resources:
 
 *** Luke Gorrie,  How to write an IDE like SLIME (20 minutes)
 
-*** Michael Olson, From Marmalade To Emacs
+*** Michael Olson, From Marmalade To Emacs (30 minute to one hour)
 
     How to get an existing Emacs add-on into the Emacs codebase (or
     how to make a new add-on that is easy to get into Emacs). Scaled
