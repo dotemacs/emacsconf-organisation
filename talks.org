@@ -1,6 +1,6 @@
 What: Emacs conference for users and developpers
 
-When: March, 30 and 31
+When: March, 30
 
 Where: Forward http://www.forward.co.uk/contact
 
